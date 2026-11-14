@@ -4,7 +4,7 @@
 
 ## Репозиторий
 
-[https://github.com/Dem1Kon/slozhno-sosredotochitsya-ad](https://github.com/Dem1Kon/slozhno-sosredotochitsya-ad)
+https://github.com/Dem1Kon/slozhno-sosredotochitsya-ad
 
 ## Запуск
 
